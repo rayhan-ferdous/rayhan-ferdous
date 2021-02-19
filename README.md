@@ -1,10 +1,12 @@
 🧪 Experimenting: Federated Learning and Deep Learning.
 
-🌱 Learning Advanced Deep Learning.
+🔨 Creating: Deep Learning frameworks, MOOCs on Deep Learning.
 
-👯 I’m looking to collaborate on start-ups, innovation & open source projects.
+🌱 Learning: Advanced Deep Learning.
 
-🤔 I’m looking for help with my next Career Opportunity in Data Science + AI + Soft. Engg. 
+👯 Looking to collaborate on: start-ups, innovation & open source projects.
+
+🤔 Looking for help with: My next Career Opportunity in Data Science + AI + Soft. Engg. 
 
 💬 Ask me about Cognitive
 
