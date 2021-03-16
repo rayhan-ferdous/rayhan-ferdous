@@ -2,7 +2,7 @@
 
 🔨 Creating: Deep Learning frameworks, MOOCs on Deep Learning.
 
-🌱 Learning: Advanced Deep Learning.
+🌱 Learning: Advanced Deep Learning + DApp Development (Solidity & Ethereum)
 
 👯 Looking to collaborate on: start-ups, innovation & open source projects.
 
