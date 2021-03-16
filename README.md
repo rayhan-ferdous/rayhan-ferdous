@@ -14,5 +14,5 @@
 
 😄 Pronouns: He/His
 
-⚡ Fun fact: I do foodography and home cooking.
+⚡ Fun fact: I love foodography and home cooking.
 
