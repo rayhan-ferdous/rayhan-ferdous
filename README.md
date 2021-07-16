@@ -6,7 +6,7 @@
 
 👯 Looking to collaborate on: start-ups, innovation & open source projects.
 
-🤔 Looking for help with: My next Career Opportunity in Data Science + ML + AI + Soft. Engg. 
+🤔 Looking for help with: Human Brain Project 
 
 💬 Ask me about Cognitive
 
