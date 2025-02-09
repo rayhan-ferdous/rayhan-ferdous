@@ -1,14 +1,12 @@
-🧪 Experimenting: Federated Learning and Deep Learning.
+🧪 Experimenting: Explainable AI.
 
 🔨 Creating: Deep Learning frameworks, MOOCs on Deep Learning.
 
-🌱 Learning: Advanced Deep Learning + DApp Development (Solidity & Ethereum)
+🌱 Learning: Fundamentals of Mathematics, Metamathematics, AI.
 
-👯 Looking to collaborate on: start-ups, innovation & open source projects.
+👯 Looking to collaborate on: Innovative unconventional experiments.
 
-🤔 Looking for help with: Human Brain Project 
-
-💬 Ask me about Cognitive
+🤔 Looking for help with: Human Brain Project.
 
 📫 How to reach me: rferdous.ca@gmail.com
 
