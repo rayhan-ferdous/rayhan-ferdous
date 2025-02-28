@@ -1,16 +1,2 @@
-🧪 Experimenting: Explainable AI.
-
-🔨 Creating: Deep Learning frameworks, MOOCs on Deep Learning.
-
-🌱 Learning: Fundamentals of Mathematics, Metamathematics, AI.
-
-👯 Looking to collaborate on: Innovative unconventional experiments.
-
-🤔 Looking for help with: Human Brain Project.
-
-📫 How to reach me: rferdous.ca@gmail.com
-
-😄 Pronouns: He/His
-
-⚡ Fun fact: I love foodography and home cooking.
-
+I am a seasoned ML Engineer with R&D focus. I invent things, mostly for the industry. Driven by interest in fundamental topics, I am currently focusing on mathematics, Explainable AI and some interesting research projects.
+I also conduct research on an unconventional new branch of mathematics, that I hope to expose to greater audience soon.
